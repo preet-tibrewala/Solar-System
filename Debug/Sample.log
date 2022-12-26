@@ -1,0 +1,58 @@
+﻿  sample.cpp
+C:\Users\Preet Tibrewala\Desktop\final cg\sample.cpp(250,17): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\Preet Tibrewala\Desktop\final cg\sample.cpp(250,27): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\Preet Tibrewala\Desktop\final cg\sample.cpp(250,37): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\Preet Tibrewala\Desktop\final cg\sample.cpp(259,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Preet Tibrewala\Desktop\final cg\sample.cpp(270,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Preet Tibrewala\Desktop\final cg\sample.cpp(297,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Preet Tibrewala\Desktop\final cg\sample.cpp(333,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Preet Tibrewala\Desktop\final cg\sample.cpp(344,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Preet Tibrewala\Desktop\final cg\sample.cpp(362,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Preet Tibrewala\Desktop\final cg\sample.cpp(409,46): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Preet Tibrewala\Desktop\final cg\sample.cpp(409,33): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Preet Tibrewala\Desktop\final cg\sample.cpp(409,20): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Preet Tibrewala\Desktop\final cg\sample.cpp(412,2): warning C4551: function call missing argument list
+C:\Users\Preet Tibrewala\Desktop\final cg\sample.cpp(459,21): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Preet Tibrewala\Desktop\final cg\sample.cpp(467,20): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Preet Tibrewala\Desktop\final cg\sample.cpp(471,18): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Preet Tibrewala\Desktop\final cg\sample.cpp(475,22): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Preet Tibrewala\Desktop\final cg\sample.cpp(479,21): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Preet Tibrewala\Desktop\final cg\sample.cpp(485,21): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Preet Tibrewala\Desktop\final cg\sample.cpp(491,22): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Preet Tibrewala\Desktop\final cg\sample.cpp(1289,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Preet Tibrewala\Desktop\final cg\sample.cpp(1290,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Preet Tibrewala\Desktop\final cg\sample.cpp(1292,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Preet Tibrewala\Desktop\final cg\sample.cpp(1294,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Preet Tibrewala\Desktop\final cg\sample.cpp(1296,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Preet Tibrewala\Desktop\final cg\sample.cpp(1297,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Preet Tibrewala\Desktop\final cg\sample.cpp(1299,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Preet Tibrewala\Desktop\final cg\sample.cpp(1301,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Preet Tibrewala\Desktop\final cg\sample.cpp(1303,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Preet Tibrewala\Desktop\final cg\sample.cpp(1304,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Preet Tibrewala\Desktop\final cg\sample.cpp(1306,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Preet Tibrewala\Desktop\final cg\sample.cpp(1308,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Preet Tibrewala\Desktop\final cg\sample.cpp(1333,23): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Preet Tibrewala\Desktop\final cg\sample.cpp(1365,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Preet Tibrewala\Desktop\final cg\sample.cpp(1380,23): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Preet Tibrewala\Desktop\final cg\sample.cpp(1394,24): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Preet Tibrewala\Desktop\final cg\sample.cpp(1408,24): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Preet Tibrewala\Desktop\final cg\sample.cpp(1412,33): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Preet Tibrewala\Desktop\final cg\sample.cpp(1413,33): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Preet Tibrewala\Desktop\final cg\sample.cpp(1414,33): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Preet Tibrewala\Desktop\final cg\sample.cpp(1415,33): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Preet Tibrewala\Desktop\final cg\sample.cpp(1430,23): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Preet Tibrewala\Desktop\final cg\sample.cpp(1444,24): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Preet Tibrewala\Desktop\final cg\sample.cpp(1490,19): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Preet Tibrewala\Desktop\final cg\sample.cpp(2273,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Preet Tibrewala\Desktop\final cg\sample.cpp(2280,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Preet Tibrewala\Desktop\final cg\sample.cpp(2292,25): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Preet Tibrewala\Desktop\final cg\sample.cpp(2293,33): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Preet Tibrewala\Desktop\final cg\sample.cpp(2293,95): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Preet Tibrewala\Desktop\final cg\sample.cpp(2299,25): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Preet Tibrewala\Desktop\final cg\sample.cpp(2300,30): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Preet Tibrewala\Desktop\final cg\sample.cpp(2320,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Preet Tibrewala\Desktop\final cg\sample.cpp(2321,24): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Preet Tibrewala\Desktop\final cg\sample.cpp(2333,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Preet Tibrewala\Desktop\final cg\sample.cpp(2334,24): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+sample.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  Sample.vcxproj -> C:\Users\Preet Tibrewala\Desktop\final cg\Debug\Sample.exe
